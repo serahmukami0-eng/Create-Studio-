@@ -1,0 +1,6 @@
+{
+  "name": "Mukami Creative Studio & Digital Art Business Hub",
+  "description": "Comprehensive business plan, dual KSh/USD pricing calculator, client commission manager, 30-day launch roadmap, portfolio showcase, and AI concept studio combining Business Information Technology and digital design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

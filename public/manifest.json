@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Mukami Creative Studio",
+  "short_name": "MukamiStudio",
+  "description": "Digital art business hub, dual KSh/USD pricing, client commission pipeline, 30-day roadmap, and AI studio combining tech with creative design.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090A0F",
+  "theme_color": "#090A0F",
+  "categories": ["business", "design", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
